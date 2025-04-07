@@ -1,0 +1,9 @@
+.list-item.high {
+    border-left: 6px solid red;
+  }
+  .list-item.medium {
+    border-left: 6px solid orange;
+  }
+  .list-item.low {
+    border-left: 6px solid green;
+  }
